@@ -1,2 +1,4 @@
 # Sia2-Massage-Booking-Desktop
-sia2
+
+Run these in the root of the project to get the modules needed for wrapping
+# npm install electron --save
